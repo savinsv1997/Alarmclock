@@ -49,6 +49,8 @@ submit = Button(clock,text = "Set Alarm",fg="red",width = 10,command = actual_ti
 clock.mainloop()
 #Execution of the window.
 
+print("savin is good")
+
 
 
 
