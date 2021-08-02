@@ -52,7 +52,8 @@ clock.mainloop()
 print("savin is good")
 
 
-
+print("12345555")
+print("asdfgfds")
 
 
 
